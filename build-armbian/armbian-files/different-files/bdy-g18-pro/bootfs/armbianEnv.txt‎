@@ -1,6 +1,6 @@
 verbosity=1
 bootlogo=false
-fdtfile=rockchip/rk3568-rk3568-bdy-g18-pro.dtb
+fdtfile=rockchip/rk3568-bdy-g18-pro.dtb
 rootdev=/dev/mmcblk0p2
 rootfstype=ext4
 rootflags=rw,errors=remount-ro
