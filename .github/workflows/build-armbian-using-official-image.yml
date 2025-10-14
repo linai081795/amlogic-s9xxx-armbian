@@ -64,6 +64,7 @@ on:
           - orangepi-5-plus
           - panther-x2
           - photonicat
+          - bdy-g18-pro
           - r66s
           - r68s
           - renegade-rk3328
