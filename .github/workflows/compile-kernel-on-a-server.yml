@@ -16,6 +16,7 @@ on:
         default: "unifreq"
         type: choice
         options:
+          - linai081795
           - unifreq
           - codesnas
       kernel_version:
@@ -68,6 +69,7 @@ on:
         default: "-ophub"
         type: choice
         options:
+          - -linai
           - -ophub
           - -yourname
 
